@@ -749,7 +749,7 @@ button:active{
   font-weight: bold;
 }
 .animate-stars{
-  right: -25px;
+  right: -22px;
   display: block;
   transform: rotate(90deg);
 }
