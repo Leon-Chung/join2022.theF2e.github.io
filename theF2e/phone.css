@@ -75,7 +75,7 @@
   }
   @keyframes labelRun{
     0%{
-      background-position: -50px;
+      background-position: -35px;
     }
     100%{
       background-position: 480px;
