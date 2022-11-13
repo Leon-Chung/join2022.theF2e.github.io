@@ -75,10 +75,10 @@
   }
   @keyframes labelRun{
     0%{
-      background-position: 0px;
+      background-position: 0%;
     }
     100%{
-      background-position: 480px;
+      background-position: 100%;
     }
   }
 
