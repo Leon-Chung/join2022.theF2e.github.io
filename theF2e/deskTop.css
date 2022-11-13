@@ -153,17 +153,17 @@ button:active{
 }
 .gameBox label:nth-child(1) i{
   background: url(./img/5011.png);
-  background-size: cover;
+  background-size: 100%;
   animation: labelRun 0.4s steps(3) infinite ;
 }
 .gameBox label:nth-child(2) i{
   background: url(./img/5022.png);
-  background-size: cover;
+  background-size: 100%;
   animation: labelRun 0.2s steps(3) infinite;
 }
 .gameBox label:nth-child(3) i{
   background: url(./img/5033.png);
-  background-size: cover;
+  background-size: 100%;
   animation: labelRun 0.3s steps(3) infinite;
 }
 @keyframes labelRun{
