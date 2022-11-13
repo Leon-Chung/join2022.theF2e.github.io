@@ -60,17 +60,17 @@
   }
   .gameBox label:nth-child(1) i{
     background: url(./img/50111.png) ;
-    background-size: cover;
+/*       background-size: cover; */
     animation: labelRun 0.4s steps(2) infinite ;
   }
   .gameBox label:nth-child(2) i{
     background: url(./img/50222.png) ;
-    background-size: cover;
+/*     background-size: cover; */
     animation: labelRun 0.2s steps(2) infinite;
   }
   .gameBox label:nth-child(3) i{
     background: url(./img/50333.png) ;
-    background-size: cover;
+/*     background-size: cover; */
     animation: labelRun 0.3s steps(2) infinite;
   }
   @keyframes labelRun{
