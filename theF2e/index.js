@@ -20,7 +20,7 @@ gameBut.addEventListener('click',function(e){
 
 //--count down--
 // Set the date we're counting down 
-let countDownDay = new Date("2022/11/28 11:59:59").getTime();
+let countDownDay = new Date("2022/12/23 23:59:59").getTime();
 let time = document.querySelector('.time');
 let days = document.querySelector('.days');
 let hours = document.querySelector('.hours');
