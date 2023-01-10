@@ -1,0 +1,65 @@
+@media screen and (min-width:1024px) {
+  .wave-h3{
+    right: 105px;
+  }
+  .wave-h4{
+    right: 80px;
+  }
+  .fiveTimeLine::after{
+    left: 470px;
+  }
+  .fiveContent ul li{
+    left: 100px;
+  }
+  .signUp button{
+    top: -1100px;
+  }
+  .eightImg{
+    display: none;
+  }
+}
+
+@media screen and (min-width:1280px){
+  
+  .wave-h3{
+    right: 230px;
+  }
+  .wave-h4{
+    right: 205px;
+  }
+  .fiveTimeLine::after{
+    left: 600px;
+  }
+  .fiveContent ul li{
+    left: 200px;
+  }
+  .signUp button{
+    top: -1130px;
+  }
+  .eightImg{
+    display: none;
+  }
+}
+
+@media screen and (min-width:1600px){
+  .wave-h3{
+    right: 550px;
+  }
+  .wave-h4{
+    right: 525px;
+  }
+  .fiveTimeLine::after{
+    left: 920px;
+  }
+  .fiveContent ul li{
+    left: 300px;
+  }
+  .signUp button{
+    top: -1430px;
+  }
+  .eightImg{
+    display: block;
+  }
+}
+
+
